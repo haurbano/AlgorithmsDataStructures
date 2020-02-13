@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52d77185-dbea-4c9f-bb82-aed5717d3563" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XX0bkZ4MrzFL8nMPxc9MXI2cT9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Amazon_Intelliji" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d77185-dbea-4c9f-bb82-aed5717d3563" name="Default Changelist" comment="" />
+      <created>1581177205450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581177205450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="-875" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581543365133">
+      <screen x="-169" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="251" y="-875" key="#com.intellij.execution.impl.EditConfigurationsDialog/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581543365133" />
+    <state x="574" y="-825" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581542351054">
+      <screen x="-169" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="574" y="-825" key="#com.intellij.ide.macro.MacrosDialog/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581542351054" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1581561908188">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581552762889" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498324" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581367775711" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581561908188" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1581561908187">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.center/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581552762888" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498323" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581367775710" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1581561908187" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1581561908186">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.left/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581552762888" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498323" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581367775709" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1581561908186" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1581561908187">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.right/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581552762889" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498324" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581367775710" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1581561908187" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1581560685352">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581530190806" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498326" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581354325290" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581560685352" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1581560685351">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.center/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581530190805" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498325" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581354325289" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1581560685351" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1581560685351">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.left/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581530190805" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498325" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581354325288" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1581560685351" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1581560685352">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.right/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581530190805" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581429498326" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581354325290" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1581560685352" />
+    <state x="424" y="-698" key="com.intellij.ide.util.TipDialog" timestamp="1581446888533">
+      <screen x="-169" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="424" y="-698" key="com.intellij.ide.util.TipDialog/-169.-1057.1920.1057/0.23.1680.954@-169.-1057.1920.1057" timestamp="1581446888533" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/-169.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1581433217149" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581295459684" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581366889322">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581366889322" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/FindSumsInArray.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/DijkstrasTest.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/DijkstrasTest.kt</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/DijkstrasTestMine.kt</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/DijkstrasTestMine.kt</url>
+          <line>59</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/DijkstrasTestMine.kt</url>
+          <line>57</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="nodes[16]" language="kotlin" />
+        <watch expression="distances.values.min()" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
