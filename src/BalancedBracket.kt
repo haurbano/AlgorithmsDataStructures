@@ -1,40 +1,36 @@
-public class BalancedBracket {
-    public void run(String s) {
-        System.out.println(isBalanced(s));
+import java.util.*
+import kotlin.collections.ArrayList
+import kotlin.collections.HashMap
+
+class BalancedBracket {
+    private val openBrackets = ArrayList<Char>().apply {
+        add('[')
+        add('{')
+        add('(')
     }
 
-    private boolean isBalanced(String s) {
-        if (s.length() % 2 != 0) {
-            return false;
-        } else {
-            int firstPartEnd = (s.length() / 2);
-            String firstPart = s.substring(0, firstPartEnd);
-            String secondPart = s.substring((s.length()/2));
+    private val closeBracketMap = HashMap<Char, Char>().apply {
+        this[']'] = '['
+        this['}'] = '{'
+        this[')'] = '('
+    }
 
-            StringBuilder strBuilder = new StringBuilder(secondPart);
-            strBuilder.reverse();
+    fun run(s: String) {
+        println(isBalanced(s))
+    }
 
-            char[] secondPartArray = strBuilder.toString().toCharArray();
-            char[] firstPartArray = firstPart.toCharArray();
-            for (int i = 0; i == (s.length() - 1); i++) {
-                char leftChar = firstPartArray[i];
-                char rightChar = secondPartArray[i];
-                switch (leftChar) {
-                    case '(':
-                        if (rightChar != ')') return false;
-                        break;
-                    case '[':
-                        if (rightChar != ']') return false;
-                        break;
-                    case '{':
-                        if (rightChar != '}') return false;
-                        break;
-                    default:
-                        return false;
-                }
+    private fun isBalanced(s: String): Boolean {
+        val stack = Stack<Char>()
+        val charArray = s.toCharArray()
+
+        for (letter in charArray) {
+            if (openBrackets.contains(letter)) {
+                stack.add(letter)
+            } else if(stack.isEmpty() || stack.pop() != closeBracketMap[letter]) {
+                return false
             }
-
-            return true;
         }
+
+        return s.isNotEmpty() && stack.isEmpty()
     }
 }
